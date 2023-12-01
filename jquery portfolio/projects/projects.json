@@ -1,0 +1,342 @@
+[
+    {
+      "name": "NotyStack Android",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "notystackandroid",
+      "category": "android",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "SPPU Engg Prep",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "sppuprepandroid",
+      "category": "android",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "NewsBox Android",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "newsboxandroid",
+      "category": "android",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Weatherly Android",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "weatherlyandroid",
+      "category": "android",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Instagram MERN",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "insta",
+      "category": "mern",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "AMAZON MERN",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "amazan",
+      "category": "mern",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "ResumeGen",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "resumegen",
+      "category": "mern",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "React-Projects",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "reactprojects",
+      "category": "mern",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Alibaba PHP",
+      "desc": "FLorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "alibaba",
+      "category": "lamp",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "JavaScript Projects Website",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "jspro",
+      "category": "basicweb",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Web UI Clones",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "webuiclones",
+      "category": "mern",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Crypto Tracker",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "cryptotracker",
+      "category": "mern",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Daraz Website",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "daraz",
+      "category": "mern",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "portfolio1",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": ""
+      }
+    },
+    {
+      "name": "Composey Website",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "composey",
+      "category": "basicweb",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Webview App",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "webviewapp",
+      "category": "android",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "PHP Banking Website",
+      "desc": "BLorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "tsfbank",
+      "category": "lamp",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Bootstrap Portfolio",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "bootstrapportfolio",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Bootstrap Template",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "bootstraptemplate",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Foodicious",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "foodicious",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Food Website",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "foodwebsite",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "WebChat Website",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "webchat",
+      "category": "mern",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Basic Banking App",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. transact amount.",
+      "image": "basicbank",
+      "category": "android",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "JavaScript Issue Tracker",
+      "desc": "ILorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "issuetrack",
+      "category": "basicweb",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "PHP PBL Portal",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. admin panel.",
+      "image": "phppblform",
+      "category": "lamp",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Link List",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Responsive.",
+      "image": "social",
+      "category": "basicweb",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Job Finder Dummy",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "saas",
+      "category": "basicweb",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Old Websites",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "oldsites",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Resistor Color Codes",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "resistercolor",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "KIA Info Website",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "kiaweb",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Burger Shop Dummy",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "image": "burgerweb",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "SUNDARBAN",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. temple for info.",
+      "image": "SUNDORBON",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "SUNDARBAN",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. temple for info.",
+      "image": "SUNDORBON",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "SUNDARBAN",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.temple for info.",
+      "image": "SUNDORBON",
+      "category": "basicweb",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    }
+  ]
